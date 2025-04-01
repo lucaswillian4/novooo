@@ -4,9 +4,17 @@ html{
 body{
     background-color: black;
     height: 100vh;
+    background-image: url(../imgs/fundocobra.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0%;
+}
+.cobra{
+    display: flex;
+        justify-content: space-around;
+}
+.cobra img{
+    width: 534px;
 }
 .capa{
     width: 100%;
